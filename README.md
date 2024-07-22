@@ -1,2 +1,2 @@
 # program-using-array
-insertion ,deletion and reverse
+insertion ,deletion and reverse,merge,sort,search
